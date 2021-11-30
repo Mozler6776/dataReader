@@ -1,8 +1,8 @@
 
-##### Description
+### Description
 With this tool, you can easily access the data(s) in the file.
 
-##### Usage
+#### Usage
 Using dataReader is simple.
 
 ```
@@ -16,5 +16,5 @@ Using dataReader is simple.
 
 ##### Installation
 ```
-git clone 
+git clone https://github.com/Mozler6776/dataReader.git
 ```
